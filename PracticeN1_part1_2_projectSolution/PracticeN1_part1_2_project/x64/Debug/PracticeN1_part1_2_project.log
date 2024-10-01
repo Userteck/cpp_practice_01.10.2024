@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\st87807\source\repos\PracticeN1_part1_2_projectSolution\PracticeN1_part1_2_project\main.cpp(9,35): warning C4101: 'res4': unreferenced local variable
+  PracticeN1_part1_2_project.vcxproj -> C:\Users\st87807\source\repos\PracticeN1_part1_2_projectSolution\x64\Debug\PracticeN1_part1_2_project.exe
